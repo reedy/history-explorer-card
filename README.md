@@ -74,6 +74,8 @@ Please refer to [this post](https://community.home-assistant.io/t/new-interactiv
 
 ### HACS
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=SpangleLabs&repository=history-explorer-card&category=Dashboard)
+
 The history explorer card is now part of the default [HACS Home Assistant Community Store](https://hacs.xyz). This is the preferred way to install this card.
 
 ### Manual install
